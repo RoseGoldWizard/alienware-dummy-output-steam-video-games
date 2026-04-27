@@ -14,3 +14,5 @@ Since I'm a Linux Noob, I will simply post the screenshots i made from this summ
 <img width="721" height="1204" alt="RoseGoldWizard Audio Fix 2" src="https://github.com/user-attachments/assets/71290e43-39c4-4809-8bb1-fbca83397e93" />
 
 <img width="705" height="181" alt="RoseGoldWizard Audio Fix 3" src="https://github.com/user-attachments/assets/96036fdd-2dec-47a6-8cf1-285c5f2f0f39" />
+
+<img width="639" height="70" alt="RoseGoldWizard Audio Fix 4" src="https://github.com/user-attachments/assets/ad71b781-8b0f-463c-86e7-bdc1370d7342" />
